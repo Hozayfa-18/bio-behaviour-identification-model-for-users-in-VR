@@ -11,6 +11,10 @@ Dieses Projekt befasst sich mit der Vorbereitung und Verarbeitung von Daten aus 
 - [Modellevaluierung](#modellevaluierung)
 - [Abhängigkeiten](#abhängigkeiten)
 
+## Sehr Wichtig
+
+.ipynb- und .pdf-Dateien können in GitHub nicht direkt angezeigt werden, da sie visuelle Darstellungen enthalten. Bitte verwenden Sie [nbviewer.org](https://nbviewer.org), um den Inhalt anzuzeigen.
+
 ## Projektübersicht
 
 Das Ziel dieses Projekts ist es, Benutzer anhand ihres Verhaltens in einer virtuellen Realität zu identifizieren. Es werden Daten von 16 Teilnehmern verwendet, die in verschiedenen Interaktionsszenarien (Reposition, Context Menu, Bimanual Keyboard und Rescale) gesammelt wurden.
